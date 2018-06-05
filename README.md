@@ -3,7 +3,7 @@ intelHex File Viewer
 
 intelHex is a simple tool for viewing intel-hex files.
 It‘s written in Java and should therefore runs on all plattforms which supports java.
-intelHex viewer is free.
+intelHex viewer is free for private usage.
 
 Usage (for version 1.0.0)
 To run this tool you must have instaled java run time.
